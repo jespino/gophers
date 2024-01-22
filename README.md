@@ -8,7 +8,7 @@ Designer: [Juan de la Cruz](https://twitter.com/elhombretecla) from the [Penpot]
 
 License: CC-0
 
-[![Collage](https://github.com/jespino/gophers/blob/main/understanding_go_compiler/collage.png?raw=true)](https://github.com/jespino/gophers/understanding_go_compiler)
+[![Collage](https://github.com/jespino/gophers/blob/main/understanding_go_compiler/collage.png?raw=true)](https://github.com/jespino/gophers/tree/main/understanding_go_compiler)
 
 ## The secret life of a goroutine
 
@@ -16,4 +16,4 @@ Designer: [Laura Pareja](https://lauraparejart.wixsite.com/laurapareja)
 
 License: CC-By
 
-[![Collage](https://github.com/jespino/gophers/blob/main/secret_life_of_goroutine/collage.png?raw=true)](https://github.com/jespino/gophers/secret_life_of_goroutine)
+[![Collage](https://github.com/jespino/gophers/blob/main/secret_life_of_goroutine/collage.png?raw=true)](https://github.com/jespino/gophers/tree/main/secret_life_of_goroutine)
