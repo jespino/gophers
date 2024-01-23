@@ -21,3 +21,13 @@ License: CC-By
 Slides: https://speakerdeck.com/jespino/the-secret-life-of-a-goroutine
 
 [![Collage](https://github.com/jespino/gophers/blob/main/secret_life_of_goroutine/collage.png?raw=true)](https://github.com/jespino/gophers/tree/main/secret_life_of_goroutine)
+
+## 10 Aha! Moments reading the go source code
+
+Designer: TODO
+
+License: CC-0
+
+Slides: TODO
+
+[![Collage](https://github.com/jespino/gophers/blob/main/10_aha_moments/collage.png?raw=true)](https://github.com/jespino/gophers/tree/main/10_aha_moments)
