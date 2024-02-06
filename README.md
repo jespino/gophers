@@ -24,10 +24,10 @@ Slides: https://speakerdeck.com/jespino/the-secret-life-of-a-goroutine
 
 ## 10 Aha! Moments reading the go source code
 
-Designer: TODO
+Designer: Tamara Newell
 
 License: CC-0
 
-Slides: TODO
+Slides: https://speakerdeck.com/jespino/10-aha-moments-reading-the-go-source-code
 
 [![Collage](https://github.com/jespino/gophers/blob/main/10_aha_moments/collage.png?raw=true)](https://github.com/jespino/gophers/tree/main/10_aha_moments)
